@@ -76,6 +76,8 @@ namespace ConsoleApp2
                 sw.WriteLine($"Income: {newEmployed.Income1 } ");
                 sw.WriteLine($"Health: {newEmployed.Health1 } ");
                 sw.WriteLine($"Pension: {newEmployed.Pension1 } ");
+                sw.WriteLine("____________________________________________________");
+                
 
                 sw.Close();
 
